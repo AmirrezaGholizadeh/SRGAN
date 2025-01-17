@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains an implementation of SRGAN (Super-Resolution Generative Adversarial Network) for enhancing low-resolution images to high-resolution images using deep learning. SRGAN is one of the most popular and effective approaches for image super-resolution tasks, leveraging adversarial learning to generate realistic, high-quality images.
-The model is trained using the DIV2K dataset, a high-quality image dataset commonly used for super-resolution tasks
+The model is trained using the DIV2K dataset, a high-quality image dataset commonly used for super-resolution tasks.
 
 
 ## 📂 File Overview
